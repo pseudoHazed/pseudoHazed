@@ -2,6 +2,6 @@
 - 👀 I’m interested in Sleep
 - 🌱 I’m currently learning Python -- SQL
 - 💞️ I’m looking to collaborate on ┐('～`;)┌
-- 📫 How to reach me:  parsaSA001@outlook.com
+- 📫 How to reach me:  
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have a good throw :) I get headshots 8 times out of 10
